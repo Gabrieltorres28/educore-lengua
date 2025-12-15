@@ -55,7 +55,7 @@ export default function HomePage() {
           <section className="card">
             <div className="cardHead">
               <div>
-                <h2>Ideal para tu portfolio</h2>
+                <h2>IA Aplicada</h2>
               
               </div>
             </div>
