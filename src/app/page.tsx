@@ -7,7 +7,7 @@ export default function HomePage() {
       <div className="topbar">
         <div className="topbarInner">
           <Logo />
-          <span className="pill">MVP · IA · Groq</span>
+      
         </div>
       </div>
 
@@ -27,7 +27,7 @@ export default function HomePage() {
             <div className="cardHead">
               <div>
                 <h2>Qué hace</h2>
-                <span>Enfocado en Lengua (primaria). Sin humo: te devuelve un plan listo para aplicar.</span>
+                <span>Enfocado en Lengua (primaria).</span>
               </div>
             </div>
             <div className="cardBody">
@@ -42,7 +42,7 @@ export default function HomePage() {
                 <Link href="/lesson-planner">
                   <button>Crear un plan ahora</button>
                 </Link>
-                <span className="pill">Sin base de datos</span>
+            
               </div>
 
               <p className="smallNote">
@@ -56,7 +56,7 @@ export default function HomePage() {
             <div className="cardHead">
               <div>
                 <h2>Ideal para tu portfolio</h2>
-                <span>Deploy rápido + demo clara para LinkedIn (sin exponer tu API key).</span>
+              
               </div>
             </div>
             <div className="cardBody">
