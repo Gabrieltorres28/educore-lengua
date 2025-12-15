@@ -173,7 +173,8 @@ export default function LessonPlannerPage() {
               diferenciación y evaluación. La salida aparece por etapas para que se lea fácil.
             </p>
           </div>
-     
+         
+        </div>
 
         <div className="grid">
           <section className="card">
