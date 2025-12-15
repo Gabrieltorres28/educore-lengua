@@ -173,8 +173,7 @@ export default function LessonPlannerPage() {
               diferenciación y evaluación. La salida aparece por etapas para que se lea fácil.
             </p>
           </div>
-          <span className="pill">IA: Groq · Español</span>
-        </div>
+     
 
         <div className="grid">
           <section className="card">
